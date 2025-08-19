@@ -1,0 +1,1 @@
+# apihive-common-docs-assets
