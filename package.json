@@ -3,5 +3,8 @@
   "version": "0.0.1",
   "main": "index.js",
   "author": "Nicola Dal Pont",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "vue": "^3.5.18"
+  }
 }

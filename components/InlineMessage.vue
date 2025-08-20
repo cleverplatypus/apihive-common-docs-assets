@@ -11,7 +11,7 @@
 </template>
 
 <script setup lang="ts">
-import { reactive, ref, type Reactive } from 'vue';
+import { reactive, ref } from 'vue';
 const show = (type: string, message: string) => {
   config.type = type;
   config.message = message;
